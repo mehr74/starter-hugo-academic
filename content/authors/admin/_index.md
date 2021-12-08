@@ -29,8 +29,8 @@ bio: I am a third year PhD student at Max Planck Institute for Software Systems,
 # Interests to show in About widget
 interests:
 - Data center networks
-- Computer architecture
 - Operating Systems
+- Computer architecture
 
 # Education to show in About widget
 education:
@@ -75,9 +75,9 @@ highlight_name: true
 ---
 
 I am a third year PhD student at Max Planck Institute for Software Systems,
-working under supervision of Herr Dr. Antoine Kaufmann. 
+working under supervision of [Herr Dr. Antoine Kaufmann](https://people.mpi-sws.org/~antoinek/). 
 
-Before starting my PhD, I earned a bachelor degree from Computer Engineering
+Before starting my graduate studies, I earned a bachelor degree from the Computer Engineering
 department of Sharif University of Technology.
 
 My research interest are data center network communication, operating systems, 
