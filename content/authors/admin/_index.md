@@ -18,13 +18,11 @@ organizations:
 
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a third year PhD student at Max Planck Institute for Software Systems,
-     advised by Herr Dr. Antoine Kaufmann. 
+bio:
+     I am a third-year Ph.D. student at Max Planck Institute for Software Systems, working under the supervision of Herr Dr. Antoine Kaufmann.
+     Before starting my graduate studies, I earned a bachelor's degree from the Computer Engineering department of the Sharif University of Technology.
+     My research interests are data center network communication, operating systems, and computer architecture. 
 
-     Before starting my PhD, I earned a bachelor degree from Computer Engineering
-     department of Sharif University of Technology.
-
-     My research interest are data center network communication, Smart-NICs.
 
 # Interests to show in About widget
 interests:
@@ -74,12 +72,12 @@ email: ""
 highlight_name: true
 ---
 
-I am a third year PhD student at Max Planck Institute for Software Systems,
-working under supervision of [Herr Dr. Antoine Kaufmann](https://people.mpi-sws.org/~antoinek/). 
+I am a third-year Ph.D. student at Max Planck Institute for Software Systems,
+working under the supervision of [Herr Dr. Antoine Kaufmann](https://people.mpi-sws.org/~antoinek/). 
 
-Before starting my graduate studies, I earned a bachelor degree from the Computer Engineering
-department of Sharif University of Technology.
+Before starting my graduate studies, I earned a bachelor's degree from the Computer Engineering
+department of the Sharif University of Technology.
 
-My research interest are data center network communication, operating systems, 
+My research interests are data center network communication, operating systems, 
 and computer architecture.
 
