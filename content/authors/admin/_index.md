@@ -19,9 +19,12 @@ organizations:
 
 # Short bio (displayed in user profile at end of posts)
 bio:
-     I am a third-year Ph.D. student at Max Planck Institute for Software Systems, working under the supervision of Herr Dr. Antoine Kaufmann.
-     Before starting my graduate studies, I earned a bachelor's degree from the Computer Engineering department of the Sharif University of Technology.
-     My research interests are data center network communication, operating systems, and computer architecture. 
+     I am a student at Saarland University and research assistant at Max 
+     Planck Institute for Software Systems, working under the supervision 
+     of Herr Dr. Antoine Kaufmann. Before starting my graduate studies, 
+     I earned a bachelor's degree from the Computer Engineering department 
+     of the Sharif University of Technology. My research interests are data 
+     center network communication, operating systems, and computer architecture. 
 
 
 # Interests to show in About widget
@@ -72,8 +75,9 @@ email: ""
 highlight_name: true
 ---
 
-I am a third-year Ph.D. student at Max Planck Institute for Software Systems,
-working under the supervision of [Herr Dr. Antoine Kaufmann](https://people.mpi-sws.org/~antoinek/). 
+I am a student at Saarland University and a research assistant at Max Planck 
+Institute for Software Systems, working under the supervision of 
+[Herr Dr. Antoine Kaufmann](https://people.mpi-sws.org/~antoinek/). 
 
 Before starting my graduate studies, I earned a bachelor's degree from the Computer Engineering
 department of the Sharif University of Technology.
